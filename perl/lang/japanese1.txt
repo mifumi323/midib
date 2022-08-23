@@ -1,0 +1,191 @@
+Track 1	トラック1
+Track 2	トラック2
+Track 3	トラック3
+Track 4	トラック4
+Track 5	トラック5
+Track 6	トラック6
+Track 7	トラック7
+Track 8	トラック8
+Track 9	トラック9
+Track 10	トラック10(ドラム)
+Track 11	トラック11
+Track 12	トラック12
+Track 13	トラック13
+Track 14	トラック14
+Track 15	トラック15
+Track 16	トラック16
+General Setting	全般設定
+About MIFUMIDIA	MIFUMIDIAについて
+Backup	バックアップ
+Back	|<
+Play	演奏
+Stop	停止
+Send	送信
+C	ど
+C#	ど＃
+D	れ
+D#	れ＃
+E	み
+F	ふぁ
+F#	ふぁ＃
+G	そ
+G#	そ＃
+A	ら
+A#	ら＃
+B	し
+View All Tracks	全トラック表示
+Program	音色
+Program 1	Piano 1
+Program 2	Piano 2
+Program 3	Piano 3
+Program 4	Honky-tonk
+Program 5	E.Piano 1
+Program 6	E.Piano 2
+Program 7	Harpsichord
+Program 8	Clav.
+Program 9	Celesta
+Program 10	Glockenspiel
+Program 11	Music Box
+Program 12	Vibraphone
+Program 13	Marimba
+Program 14	Xylophone
+Program 15	Tubular-bell
+Program 16	Santur
+Program 17	Organ 1
+Program 18	Organ 2
+Program 19	Organ 3
+Program 20	Church Org.1
+Program 21	Reed Organ
+Program 22	Accordion Fr
+Program 23	Harmonica
+Program 24	Bandoneon
+Program 25	Nylon-str.Gt
+Program 26	Steel-str.Gt
+Program 27	Jazz Gt.
+Program 28	Clean Gt.
+Program 29	Muted Gt.
+Program 30	Overdrive Gt
+Program 31	DistotionGt
+Program 32	Gt.Harmonics
+Program 33	Acoustic Bs.
+Program 34	Fingered Bs.
+Program 35	Picked Bass
+Program 36	Fretless Bs.
+Program 37	Slap Bass 1
+Program 38	Slap Bass 2
+Program 39	Synth Bass 1
+Program 40	Synth Bass 2
+Program 41	Violin
+Program 42	Viola
+Program 43	Cello
+Program 44	Contrabass
+Program 45	Tremolo Str
+Program 46	PizzicatoStr
+Program 47	Harp
+Program 48	Timpani
+Program 49	Strings
+Program 50	Slow Strings
+Program 51	Syn.Strings1
+Program 52	Syn.Strings2
+Program 53	Choir Aahs
+Program 54	Voice Oohs
+Program 55	SynVox
+Program 56	OrchestraHit
+Program 57	Trumpet
+Program 58	Trombone
+Program 59	Tuba
+Program 60	MutedTrumpet
+Program 61	French Horns
+Program 62	Brass 1
+Program 63	Synth Brass1
+Program 64	Synth Brass2
+Program 65	Soprano Sax
+Program 66	Alto Sax
+Program 67	Tenor Sax
+Program 68	Baritone Sax
+Program 69	Oboe
+Program 70	English Horn
+Program 71	Bassoon
+Program 72	Clarinet
+Program 73	Piccolo
+Program 74	Flute
+Program 75	Recorder
+Program 76	Pan Flute
+Program 77	Bottle Blow
+Program 78	Shakuhachi
+Program 79	Whistle
+Program 80	Ocarina
+Program 81	Square Wave
+Program 82	Saw Wave
+Program 83	Syn.Calliope
+Program 84	Chiffer Lead
+Program 85	Charang
+Program 86	Solo Vox
+Program 87	5th Saw Wave
+Program 88	Bass & Lead
+Program 89	Fantasia
+Program 90	Warm Pad
+Program 91	Polysynth
+Program 92	Space Voice
+Program 93	Bowed Glass
+Program 94	Metal Pad
+Program 95	Halo Pad
+Program 96	Sweep Pad
+Program 97	Ice Rain
+Program 98	Soundtrack
+Program 99	Crystal
+Program 100	Atmosphere
+Program 101	Brightness
+Program 102	Goblin
+Program 103	Echo Drops
+Program 104	Star Theme
+Program 105	Sitar
+Program 106	Banjo
+Program 107	Shamisen
+Program 108	Koto
+Program 109	Kalimba
+Program 110	Bagpipe
+Program 111	Fiddle
+Program 112	Shanai
+Program 113	Tinkle Bell
+Program 114	Agogo
+Program 115	Steel Drums
+Program 116	Woodblock
+Program 117	Taiko
+Program 118	Melo.Tom 1
+Program 119	Synth Drum
+Program 120	Reverse Cym.
+Program 121	Gt.FretNoise
+Program 122	Breath Noize
+Program 123	Seashore
+Program 124	Bird
+Program 125	Telephone 1
+Program 126	Helicopter
+Program 127	Applause
+Program 128	Gun Shot
+Drum Kit	ドラムキット
+Edit Unit	編集単位
+Edit Unit 1	192分音符(最小)
+Edit Unit 2	96分音符(24連符)
+Edit Unit 3	64分音符
+Edit Unit 4	48分音符(12連符)
+Edit Unit 6	32分音符
+Edit Unit 8	24分音符(6連符)
+Edit Unit 12	16分音符
+Edit Unit 16	12分音符(3連符)
+Edit Unit 24	8分音符
+Edit Unit 32	6分音符(2拍3連符)
+Edit Unit 48	4分音符
+Edit Unit 64	3分音符(4拍3連符)
+Edit Unit 96	2分音符
+Edit Unit 192	全音符
+Duration	音の長さ
+Velocity	音の強さ
+Tempo	テンポ
+Author	作者
+Title	曲名
+Restore	復元
+Error: Data Too Short	データが短すぎます！！
+Error: Invalid Data	不正なデータです！！
+Error: Note Overrapped	音符が重なっています！！
+Complete	完了
